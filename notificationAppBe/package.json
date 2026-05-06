@@ -1,0 +1,16 @@
+{
+  "name": "notificationappbe",
+  "version": "1.0.0",
+  "description": "Campus Notifications Microservice",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
